@@ -1,2 +1,3 @@
 # bookbot
-Boot.dev project 1
+
+First project from Boot.dev python course.
